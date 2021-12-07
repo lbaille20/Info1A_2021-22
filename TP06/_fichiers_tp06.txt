@@ -1,0 +1,5 @@
+alphabet_pixel.txt
+fruits.txt
+haiku.txt
+lettreG.pbm
+pomme.pbm
