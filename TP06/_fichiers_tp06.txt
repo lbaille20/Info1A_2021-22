@@ -1,4 +1,5 @@
 alphabet_pixel.txt
+Flag_of_Sweden.png
 fruits.txt
 haiku.txt
 lettreG.pbm
