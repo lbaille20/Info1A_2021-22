@@ -1,3 +1,6 @@
+# https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
+# https://numpy.org/doc/stable/reference/generated/numpy.interp.html
+
 def s(n):
     s = 0 # variable locale s initialisée à 0
     for i in range(n):
